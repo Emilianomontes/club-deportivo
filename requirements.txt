@@ -1,0 +1,3 @@
+# Dependencias del proyecto Club Deportivo
+# Tkinter y sqlite3 vienen incluidos con Python 3.10+
+# No se requieren dependencias externas adicionales
